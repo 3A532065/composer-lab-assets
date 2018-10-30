@@ -1,0 +1,11 @@
+{
+    "name": "wayne/composer-lab-assets",
+    "description": "composer-lab-assets",
+    "authors": [
+        {
+            "name": "3A532065",
+            "email": "weyna1649@gmail.com"
+        }
+    ],
+    "require": {}
+}
